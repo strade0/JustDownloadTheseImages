@@ -10,17 +10,13 @@ A lightweight Windows desktop app that collects images from your clipboard and b
 
 Click to download from [**Releases**](../../releases/latest) page — no installation required.
 
-## ✨ Features
+## Features
 
 - **Paste from clipboard** — Copy any image in your browser (right-click → Copy Image) and press `Ctrl+V` to add it
 - **Click to remove** — Hover over a thumbnail and click to remove it
 - **Batch download** — Save all images as high-quality JPEGs to any folder in one click
 
-## 📥 Download
-
-Grab the latest `.exe` from the [**Releases**](../../releases/latest) page — no installation required.
-
-## 🛠️ Build from Source
+## Build from Source
 
 **Requirements:** Python 3.8+ and pip
 
@@ -40,7 +36,7 @@ pyinstaller ImageCollector.spec --clean
 # Output: dist/JustDownloadTheseImages.exe
 ```
 
-## 📋 Project Structure
+##  Project Structure
 
 ```
 ├── image_collector.py    # Main application
@@ -51,8 +47,9 @@ pyinstaller ImageCollector.spec --clean
 └── README.md
 ```
 
-## 📄 License
+## License
 
 [MIT](LICENSE) — use it however you like.
+
 
 
