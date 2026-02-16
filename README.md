@@ -1,14 +1,14 @@
 # Just Download these Images
 
-## 📥 Download
-
-Grab the latest `.exe` from the [**Releases**](../../releases/latest) page — no installation required.
-
 A lightweight Windows desktop app that collects images from your clipboard and batch-downloads them as JPEGs.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)
+
+## 📥 Download
+
+Click to download from [**Releases**](../../releases/latest) page — no installation required.
 
 ## ✨ Features
 
