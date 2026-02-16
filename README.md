@@ -1,7 +1,4 @@
 # Just Download these Images
-
-A lightweight Windows desktop app that collects images from your clipboard and batch-downloads them as JPEGs.
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)
@@ -50,6 +47,7 @@ pyinstaller ImageCollector.spec --clean
 ## License
 
 [MIT](LICENSE) — use it however you like.
+
 
 
 
