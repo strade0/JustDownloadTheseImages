@@ -13,6 +13,8 @@ Click to download from [**Releases**](../../releases/latest) page — no install
 - **Click to remove** — Hover over a thumbnail and click to remove it
 - **Batch download** — Save all images as high-quality JPEGs to any folder in one click
 
+![App Screenshot](assets/screenshot.png)
+
 ## Build from Source
 
 **Requirements:** Python 3.8+ and pip
@@ -47,6 +49,7 @@ pyinstaller ImageCollector.spec --clean
 ## License
 
 [MIT](LICENSE) — use it however you like.
+
 
 
 
